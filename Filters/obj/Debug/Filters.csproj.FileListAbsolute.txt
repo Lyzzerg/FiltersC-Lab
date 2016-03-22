@@ -1,0 +1,35 @@
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\bin\Debug\Filters.exe.config
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\bin\Debug\Filters.exe
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\bin\Debug\Filters.pdb
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.Form1.resources
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.exe
+F:\My Documents\Visual Studio 2015\Projects\Filters\Filters\obj\Debug\Filters.pdb
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\Filters.exe.config
+C:\Users\tvc\Desktop\Filters\Filters\obj\Debug\Filters.exe
+C:\Users\tvc\Desktop\Filters\Filters\obj\Debug\Filters.pdb
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\Filters.exe
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\Filters.pdb
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\mscorlib.dll
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\System.Net.Http.dll
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\System.Net.Http.xml
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\normidna.nlp
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\normnfc.nlp
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\normnfd.nlp
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\normnfkc.nlp
+C:\Users\tvc\Desktop\Filters\Filters\bin\Debug\normnfkd.nlp
+C:\Users\tvc\Desktop\Filters\Filters\obj\Debug\Filters.Form1.resources
+C:\Users\tvc\Desktop\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\Users\tvc\Desktop\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
+F:\Рабочий стол\Filters\Filters\bin\Debug\Filters.exe.config
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.exe
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.pdb
+F:\Рабочий стол\Filters\Filters\bin\Debug\Filters.exe
+F:\Рабочий стол\Filters\Filters\bin\Debug\Filters.pdb
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.Form1.resources
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+F:\Рабочий стол\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.Cache
